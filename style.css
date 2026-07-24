@@ -1,0 +1,53 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  line-height: 1.6;
+  color: #222;
+  background: #fdfdfb;
+}
+
+header h1 {
+  margin-bottom: 0.2rem;
+}
+
+header p.subtitle {
+  color: #666;
+  margin-top: 0;
+}
+
+.bio p {
+  margin-bottom: 1rem;
+}
+
+.articles {
+  margin-top: 3rem;
+  border-top: 1px solid #ddd;
+  padding-top: 1.5rem;
+}
+
+.articles ul {
+  list-style: none;
+  padding: 0;
+}
+
+.articles li {
+  margin-bottom: 0.75rem;
+}
+
+.articles a {
+  text-decoration: none;
+  color: #1a5276;
+  font-size: 1.1rem;
+}
+
+.articles a:hover {
+  text-decoration: underline;
+}
+
+a.back {
+  display: inline-block;
+  margin-bottom: 2rem;
+  color: #1a5276;
+}
