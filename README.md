@@ -1,12 +1,11 @@
-# Cam Klockner
+# Retired
 
-Personal site and writing portfolio.
+This repository was where Cam Klockner's site was first built, as a
+learning exercise. It is no longer used and its GitHub Pages site is dead.
 
-**Live at:** https://cklockner54-ux.github.io/Cam_Test-2026-07-24/
+The live site and all current work now live at:
 
-Built as plain HTML and CSS, hosted on GitHub Pages.
+- Site: https://camklockner.github.io/
+- Repository: https://github.com/CamKlockner/camklockner.github.io
 
-- `index.html` — bio and list of articles
-- `style.css` — styling for every page
-- `published/articles/` — articles that are live on the site
-- `images/` — photos used on the site
+Nothing here should be treated as current.
